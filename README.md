@@ -8,15 +8,19 @@
 АННА КАРЕНИНА
 А) наиболее часто встречающиеся слова:
 
+
 ![https://github.com/maratmavrin/hw6/blob/master/IMG_20180408_171148.jpg](https://github.com/maratmavrin/hw6/blob/master/IMG_20180408_171148.jpg)
 ![https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_225837.jpg](https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_225837.jpg)
 самые редкие иноязычные слова в Анне Корениной 
 
+
 ![https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_225936.jpg](https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_225936.jpg)
 самые редкие слова в Анне Корениной, помимо иноязычных 
 
+
 ![https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_230008.jpg](https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_230008.jpg)
 самые редкие слова:
+
 
 ![https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_230403.jpg](https://github.com/maratmavrin/hw6/blob/master/IMG_20180409_230403.jpg)
 использованные настройки:
